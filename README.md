@@ -56,15 +56,17 @@ The game starts with you going through a series of puzzles to get to Haven. The 
 ***
 
 ---{ Graphics }---
+
 ☐ You forget what reality is
 ☐ Beautiful
-☑ Good
-☐ Decent
+☐ Good
+☑ Decent
 ☐ Bad
 ☐ Don‘t look too long at it
 ☐ MS-DOS
 
 ---{ Gameplay }---
+
 ☐ Very good
 ☑ Good
 ☐ It's just gameplay
@@ -73,6 +75,7 @@ The game starts with you going through a series of puzzles to get to Haven. The 
 ☐ Just don't
 
 ---{ Audio }---
+
 ☐ Eargasm
 ☑ Very good
 ☐ Good
@@ -87,6 +90,7 @@ The game starts with you going through a series of puzzles to get to Haven. The 
 ☑ Grandma
 
 ---{ PC Requirements }---
+
 ☐ Check if you can run paint
 ☑ Potato
 ☑ Decent
@@ -95,6 +99,7 @@ The game starts with you going through a series of puzzles to get to Haven. The 
 ☐ Ask NASA if they have a spare computer
 
 ---{ Difficulty }---
+
 ☐ Just press 'W'
 ☐ Easy
 ☑ Easy to learn / Hard to master
@@ -103,6 +108,7 @@ The game starts with you going through a series of puzzles to get to Haven. The 
 ☐ Dark Souls
 
 ---{ Grind }---
+
 ☑ Nothing to grind
 ☐ Only if u care about leaderboards/ranks
 ☐ Isn't necessary to progress
@@ -111,6 +117,7 @@ The game starts with you going through a series of puzzles to get to Haven. The 
 ☐ You'll need a second life for grinding
 
 ---{ Story }---
+
 ☐ No Story
 ☐ Some lore
 ☑ Average
@@ -119,6 +126,7 @@ The game starts with you going through a series of puzzles to get to Haven. The 
 ☐ It'll replace your life
 
 ---{ Game Time }---
+
 ☐ Long enough for a cup of coffee
 ☐ Short
 ☐ Average
@@ -126,6 +134,7 @@ The game starts with you going through a series of puzzles to get to Haven. The 
 ☐ To infinity and beyond
 
 ---{ Price }---
+
 ☐ It's free!
 ☐ Worth the price
 ☑ If it's on sale
@@ -134,6 +143,7 @@ The game starts with you going through a series of puzzles to get to Haven. The 
 ☐ You could also just burn your money
 
 ---{ Bugs }---
+
 NOTE:REMEMBER THAT THE GAME IS IN EARLY ACCESS DURING THIS REVIEW. THE BUGS IS NOT BAD FOR AN EARLY ACCESS TITLE
 ☑ Never heard of
 ☐ Minor bugs
@@ -142,6 +152,7 @@ NOTE:REMEMBER THAT THE GAME IS IN EARLY ACCESS DURING THIS REVIEW. THE BUGS IS N
 ☐ The game itself is a big terrarium for bugs
 
 ---{ ? / 10 }---
+
 ☐ 1
 ☐ 2
 ☐ 3
